@@ -29,4 +29,4 @@ Este blog es una actividad escolar, pero también es mi oportunidad para profund
 - **Historias y anécdotas**: Relatos sobre lo que sucede en el día a día de los programadores y momentos curiosos que merecen ser contados.
 - **Proyectos y tutoriales**: De vez en cuando compartiré mis proyectos de programación y cómo los realizo.
 
-::github{repo="re6cee/reblog"}
+::github{repo="re6cee/re-blog"}
